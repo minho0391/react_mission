@@ -1,3 +1,4 @@
+//  React Basic Mission - 1
 function Card({ name, price, brand }) {
   return (
     <div>
